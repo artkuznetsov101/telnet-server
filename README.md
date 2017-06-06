@@ -2,10 +2,11 @@
 
 Simple ready-to-use telnet server with command parsing.
 
-Connection port - 23.
-
 - how to build: 
 `mvn package`
 
-- how to run:
+- how to run: 
 `mvn exec:java`
+
+- connection port: 
+`23`
