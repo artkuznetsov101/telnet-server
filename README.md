@@ -4,12 +4,12 @@ Simple ready-to-use telnet server with command parsing.
 
 #### how to build: 
 
-      mvn package
+    mvn package
 
 #### how to run:
          
-      mvn exec:java
+    mvn exec:java
 
 #### connection port: 
       
-      23
+    23
